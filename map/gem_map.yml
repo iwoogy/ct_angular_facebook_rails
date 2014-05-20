@@ -1,0 +1,11 @@
+---
+module:
+  name: "facebook"
+uis:
+  - name: Facebook
+    type: service
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
